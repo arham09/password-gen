@@ -1,4 +1,13 @@
 {
   "name": "@arham09/password-gen",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "description": "Password utility",
+  "license": "MIT",
+  "repository": "arham09/password-gen",
+  "main": "index.js",
+  "keywords": [
+    "password",
+    "generator",
+    "validator"
+  ]
 }
